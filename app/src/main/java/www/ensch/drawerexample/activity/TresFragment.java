@@ -9,9 +9,7 @@ import android.view.ViewGroup;
 
 import www.ensch.drawerexample.R;
 
-/**
- * Created by Ravi on 29/07/15.
- */
+
 public class TresFragment extends Fragment {
 
     public TresFragment() {
