@@ -1,8 +1,5 @@
 package www.ensch.drawerexample.adapter;
 
-/**
- * Created by Ravi on 29/07/15.
- */
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.support.v7.widget.RecyclerView;
