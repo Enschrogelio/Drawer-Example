@@ -1,8 +1,6 @@
 package www.ensch.drawerexample.activity;
 
-/**
- * Created by Ravi on 29/07/15.
- */
+
 import android.app.Activity;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
