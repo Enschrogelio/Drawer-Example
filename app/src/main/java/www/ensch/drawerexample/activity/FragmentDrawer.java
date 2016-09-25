@@ -1,8 +1,5 @@
 package www.ensch.drawerexample.activity;
 
-/**
- * Created by Ravi on 29/07/15.
- */
 
 import android.content.Context;
 import android.os.Bundle;
