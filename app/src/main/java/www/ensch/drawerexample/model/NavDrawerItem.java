@@ -1,8 +1,6 @@
 package www.ensch.drawerexample.model;
 
-/**
- * Created by Ravi on 29/07/15.
- */
+
 public class NavDrawerItem {
     private boolean showNotify;
     private String title;
